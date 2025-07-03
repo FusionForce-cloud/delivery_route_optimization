@@ -1,0 +1,6 @@
+location,time,package_load
+LocA,09:00,20
+LocB,10:00,30
+LocC,11:00,15
+LocD,12:00,25
+Depot,08:00,0
