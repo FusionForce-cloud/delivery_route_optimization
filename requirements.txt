@@ -1,5 +1,6 @@
-pandas
-scikit-learn
-networkx
-matplotlib
 streamlit
+pandas
+numpy
+pydeck
+scikit-learn
+matplotlib
