@@ -1,0 +1,14 @@
+
+---
+
+## ✅ Upload to GitHub
+You can now:
+1. Create a new repo: `delivery-route-optimizer`
+2. Push the folder:
+```bash
+git init
+git add .
+git commit -m "Initial commit - ML + TSP based route optimizer"
+git branch -M main
+git remote add origin https://github.com/your-username/delivery-route-optimizer.git
+git push -u origin main
